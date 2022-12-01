@@ -16,7 +16,7 @@ export class EjemplosPipesComponent implements OnInit {
   PI = Math.PI;
   porcentaje=0.236;
   salario=1234.23;
-  fecha=22; ;
+  fecha=22 ;
 }
 
 
